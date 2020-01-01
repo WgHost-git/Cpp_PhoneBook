@@ -52,7 +52,7 @@ int main()
 			}
 
 		}
-		else if (choiceMenu == 2) //Меню выбора2
+		else if (choiceMenu == 2) //Меню выбора2.
 		{
 			MenuSub2();
 
